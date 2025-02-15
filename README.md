@@ -1,5 +1,5 @@
 # Protein Matching in Python using MPI
-The goal of this project is to compare the performance of a serial and parallel protein matching algorithm, specifically highlighting the efficiency gains from parallelism.. Through parallelism using MPI there was an observed speedup of 1.69 (Gustafson's law).
+The goal of this project is to compare the performance of a serial and parallel protein matching algorithm, specifically highlighting the efficiency gains from parallelism. Through parallelism using MPI there was an observed speedup of 1.69 (Gustafson's law).
 
 Below is a sample output:
 <br><img src="https://github.com/user-attachments/assets/1233db56-1ce6-4035-81bc-f6aa30cf75af" width="600">
