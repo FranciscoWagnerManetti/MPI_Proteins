@@ -5,8 +5,8 @@
 
 Below is a sample output using a proteins.csv file with 500,000 lines:
 <img src="https://github.com/user-attachments/assets/1233db56-1ce6-4035-81bc-f6aa30cf75af" width="500">
-<img src="https://github.com/user-attachments/assets/a2a7eb5b-9cfa-4dcb-aed3-c13025483c43" width="300">
 
+<img src="https://github.com/user-attachments/assets/a2a7eb5b-9cfa-4dcb-aed3-c13025483c43" width="300">
 
 The x-axis shows the id of the protein sequence and y-axis shows the number of occurences of the pattern (in this case "CCB") in the protein sequence.
 
